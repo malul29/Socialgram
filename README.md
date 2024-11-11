@@ -19,10 +19,5 @@ TailwindCSS
 10. Run TailwindCSS "npm run dev"
 11. Open http://localhost:8000 with your browser to see the result.
 
-# Account 
-email : vivan@social.com
-pass : vivan123
-[Uploading socialgram.sql…]()
-
 ## Made by
-VIVAN CENTRINO - 10121202
+malul29
