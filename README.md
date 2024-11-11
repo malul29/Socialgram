@@ -22,7 +22,8 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/username/repository-name.git
 cd repository-name
-2. Install Composer Dependencies
+```
+###2. Install Composer Dependencies
 Run the following command to install the PHP dependencies:
 
 bash
